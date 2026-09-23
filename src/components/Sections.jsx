@@ -140,7 +140,7 @@ export function Story() {
   return (
     <section className="story" id="story">
       <Reveal className="story__media">
-        <img src={images.detail} alt="Close detail of gold bead, chili and lotus charms beside a silk twilly." />
+        <img src={images.detail} alt="A burgundy paisley silk twilly tied to a brown handbag with gold ghungroo bells, a lotus charm and a pearl-and-coin tassel." />
       </Reveal>
       <Reveal className="story__text" delay={150}>
         <p className="eyebrow">Our story</p>

@@ -4,8 +4,7 @@ const base = import.meta.env.BASE_URL;
 
 export const images = {
   hero: `${base}images/hero.webp`,
-  // Swap in a dedicated detail shot once you have one; the hero is re-cropped for now.
-  detail: `${base}images/hero.webp`,
+  detail: `${base}images/maroon-heritage.webp`,
 };
 
 export const products = [

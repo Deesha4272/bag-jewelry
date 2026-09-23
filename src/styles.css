@@ -448,9 +448,9 @@ h3 {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: 64% 42%;
-  transform: scale(1.75);
-  transform-origin: 64% 42%;
+  object-position: 50% 50%;
+  transform: scale(1.35);
+  transform-origin: 56% 36%;
 }
 
 .story__text {
