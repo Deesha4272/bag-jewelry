@@ -1,9 +1,11 @@
 // Content lives here so copy and imagery can change without touching layout.
 
+const base = import.meta.env.BASE_URL;
+
 export const images = {
-  hero: '/images/hero.webp',
+  hero: `${base}images/hero.webp`,
   // Swap in a dedicated detail shot once you have one; the hero is re-cropped for now.
-  detail: '/images/hero.webp',
+  detail: `${base}images/hero.webp`,
 };
 
 export const products = [
